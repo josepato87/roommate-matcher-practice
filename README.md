@@ -1,4 +1,4 @@
-#Demo App Specifications
+# Demo App Specifications
 
 ## Summary
 Dempo App is a simple Java application for basic programming concepts learning.
